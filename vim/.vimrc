@@ -15,4 +15,6 @@ set nobackup
 set nowb
 set noswapfile
 
+" show line numbers
+set number
 """ TODO add https://github.com/gmarik/vundle
